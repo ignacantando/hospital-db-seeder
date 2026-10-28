@@ -2,9 +2,11 @@
     "name": "hospital-db-seeder",
     "version": "1.0.0",
     "description": "Data seeder for hospital database",
-    "main": "seeder.js",
+    "main": "host.js",
     "scripts": {
-        "seed": "node seeder.js"
+        "seed": "node host.js seed",
+        "clean": "node host.js clean",
+        "reset": "node host.js reset"
     },
     "dependencies": {
         "@faker-js/faker": "^8.4.1",
