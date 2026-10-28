@@ -58,4 +58,4 @@ npm run reset   # limpiar y volver a poblar
 
 ## 👤 Autor
 
-**Ignacio Cantando Flego** · [LinkedIn](https://www.linkedin.com/in/ignaciocantandoflego/) · [GitHub](https://github.com/ignacantando)
+**Ignacio Cantando Flego** · [LinkedIn](https://www.linkedin.com/in/ignacio-cantando-flego-8ba84a127/) · [GitHub](https://github.com/ignacantando)
